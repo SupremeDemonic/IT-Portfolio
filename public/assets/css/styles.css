@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #2e2e2e;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1, h2, h3 {
+    color: lightgreen;
+}
+
+a {
+    color: lightblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.terminal {
+    width: 80%;
+    max-width: 800px;
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.terminal-header {
+    background-color: #2d2d2d;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.traffic-lights {
+    display: flex;
+    gap: 8px;
+}
+
+.traffic-lights span {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.traffic-lights .red {
+    background-color: #ff5f56;
+}
+
+.traffic-lights .yellow {
+    background-color: #ffbd2e;
+}
+
+.traffic-lights .green {
+    background-color: #27c93f;
+}
+
+.terminal-title {
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    flex-grow: 1;
+    margin-left: -50px; /* Center the title visually */
+}
+
+.terminal-body {
+    padding: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    background-color: #1e1e1e;
+    color: #00ff00; /* Green text for terminal look */
+    height: 400px; /* Fixed height for the terminal body */
+    overflow-y: auto; /* Enable vertical scrolling */
+    display: flex;
+    flex-direction: column; /* Ensure new content stacks vertically */
+}
+
+.input-line {
+    display: flex;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #00ff00;
+    margin-top: 10px;
+    position: relative; /* Ensure relative positioning for the cursor */
+}
+
+.prompt {
+    margin-right: 5px;
+    color: #00ff00;
+}
+
+.user-input {
+    color: #00ff00;
+    white-space: pre; /* Ensures spaces are preserved */
+    display: inline-block; /* Ensures the cursor aligns with the text */
+}
+
+.cursor {
+    width: 10px;
+    height: 18px;
+    background-color: #00ff00;
+    animation: blink 1s step-end infinite;
+    position: absolute; /* Position the cursor absolutely within the input-line */
+}
+
+@keyframes blink {
+    50% {
+        background-color: transparent;
+    }
+}
+
+.portfolio-item {
+    margin: 20px 0;
+    border: 1px solid green;
+    padding: 10px;
+    background-color: rgba(0, 128, 0, 0.1);
+}
