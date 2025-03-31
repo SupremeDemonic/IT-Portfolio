@@ -77,7 +77,7 @@ My passion for cybersecurity stems from hands-on experience—building a home la
 
 - Portfolio: [Terminal-style Website](https://supremedemonic.github.io/IT-Portfolio/public/index.html)  
 - Email: nawazsamuel98@gmail.com  
-- LinkedIn: *Coming soon*  
+- LinkedIn: [https://www.linkedin.com/in/samuel-nawaz/](https://www.linkedin.com/in/samuel-nawaz/) 
 - Location: Stevensville, MD  
 
 ---
