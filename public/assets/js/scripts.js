@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
 Available commands:
   General:
     abt       - About Me
-    exp       - Experience
     projects  - Projects
     contact   - Contact Me
     skills    - Skills
@@ -112,30 +111,59 @@ What's Next:
    - Master techniques like patch management, endpoint security, and firewall configurations.
    - Study common attack vectors like phishing, SQL injection, and malware, and learn how to mitigate them.
         `,
-        exp: `
-Experience:
-- CDP Document Processor at RSM US LLP (October 2022 - Present)
-- Wireless Sales Representative & Mentor at CellularSales (September 2020 - September 2022)
-        `,
         projects: `
 Projects:
-1. Developed a network system for the Marconi Law Firm, including LAN design, product research, and setup of static IP addresses and group permissions.
-2. Analyzed ransomware targeting Apple platforms, focusing on emerging malware threats in the App Store.
-3. Built a personal homelab environment with multiple PCs, virtual machines, and FTP servers to test IT infrastructure.
-        `,
+1. SnowBe Online – Security Policy Implementation & Review
+   - Developed a detailed security plan with policies, standards, and procedures aligned with PCI DSS and NIST 800-53.
+
+2. Ransomware in the Apple App Store – Group-IB Research
+   - Analyzed Group-IB's discovery of ransomware threats within Apple's ecosystem and proposed countermeasures.
+
+3. Website Development – WordPress on Hostinger
+   - Built and deployed secure websites for davinasbakedtherapy.com and techgeargurus.com using layered security (MFA, firewall).
+
+4. Personal Homelab
+   - Created an enterprise-style lab with a Kali Linux attacker machine, a Windows Server 2019, and 7 Windows 10 endpoints.
+
+5. OWASP Juice Shop
+   - Completed full walkthrough of this vulnerable web app to practice XSS, SQLi, and other exploit techniques.
+`,
+
         contact: `
 Contact Me:
-Email: sam.cybersecurity@example.com
+Email: nawazsamuel98@gmail.com
 LinkedIn: linkedin.com/in/samuel-nawaz
         `,
         skills: `
 Skills:
-- Penetration Testing
-- Vulnerability Assessment
-- Network Security
-- Malware Analysis
-- Incident Response
-        `,
+- Penetration Testing:
+  - Conducted simulated attacks on lab environments using Kali Linux and Metasploit.
+  - Executed custom payloads and reverse shells for Windows targets.
+
+- Vulnerability Assessment:
+  - Used Nmap, OWASP ZAP, and manual techniques to identify security weaknesses in web apps and networks.
+  - Completed full walkthrough of OWASP Juice Shop to analyze real-world vulnerabilities.
+
+- Network Security:
+  - Configured and secured enterprise-style virtual networks in a homelab.
+  - Analyzed traffic using Wireshark and implemented firewall rules for basic defense scenarios.
+
+- Malware Analysis:
+  - Deployed custom Metasploit payloads and monitored behavioral patterns within isolated environments.
+  - Studied malware attack vectors and exploit delivery techniques in lab setups.
+
+- Incident Response:
+  - Simulated threat scenarios to practice log review, threat detection, and response workflows.
+  - Gained familiarity with security monitoring tools like Splunk and system-level analysis.
+
+- Automation & Scripting:
+  - Automated system tasks, keyboard actions, and scanning operations using Python and Bash.
+  - Developed reverse shell scripts and workflow automation tools.
+
+- Systems & Tools:
+  - Kali Linux, Windows Server 2019, Wireshark, Metasploit, Burp Suite, TryHackMe, VirtualBox, Nmap, OWASP ZAP
+`,
+
         tech: `
 Technologies:
 - Python, JavaScript, Bash
@@ -164,11 +192,27 @@ Security:
         `,
         hack: `
 Ethical Hacking:
-- Penetration Testing
-- Vulnerability Scanning
-- Social Engineering
-- Exploit Development
-        `,
+- Penetration Testing:
+  - Performed targeted attacks on Windows 10 VMs using Kali Linux.
+  - Executed reverse shell payloads and malware via Metasploit and Flipper Zero.
+
+- Vulnerability Scanning:
+  - Used Nmap for port scanning and service enumeration.
+  - Practiced automated and manual vulnerability discovery using OWASP Juice Shop and custom scripts.
+
+- Social Engineering:
+  - Simulated phishing-style attacks in lab environments to demonstrate credential harvesting and human-layer weaknesses.
+
+- Exploit Development:
+  - Created custom reverse shell scripts and tested shellcode execution against Windows environments.
+  - Analyzed common web application flaws such as XSS, SQL Injection, and IDOR during Juice Shop testing.
+
+- Live Demonstrations:
+  - Hosted an ethical hacking session showcasing real-time network penetration with Aircrack-ng and Kali Linux on a wireless network.
+
+- Tools & Platforms:
+  - Kali Linux, Metasploit Framework, Nmap, Aircrack-ng, Burp Suite, OWASP ZAP, TryHackMe, Hack The Box
+`,
         prof: `
 Professional Experience:
 CDP Document Processor, RSM US LLP (October 2022 - Present)
@@ -191,9 +235,14 @@ Education:
         `,
         achievements: `
 Key Achievements:
-- Educational Achievements: Graduated as Salutatorian for the Class of 2024 with a 3.99 GPA and received two Directors' Awards.
-- Personal Achievements: Built a personal homelab environment with multiple PCs, virtual machines, and FTP servers. Automated daily tasks using Python to streamline processes and improve productivity.
-        `
+- Salutatorian, Class of 2024 at Full Sail University with a 3.99 GPA and two Directors' Awards.
+- Hosted a live ethical hacking session using Kali Linux and Aircrack-ng for network penetration testing.
+- Created and deployed a reverse shell script attached to a Flipper Zero, successfully connecting to a Kali VM.
+- Built a malware package with Metasploit that compromised a Windows 10 virtual machine.
+- Developed a fully functioning homelab simulating a small enterprise network.
+- Automated daily IT tasks using Python to improve productivity.
+`,
+
     };
 
     const updateCursorPosition = () => {
