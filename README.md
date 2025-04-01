@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio – Samuel Nawaz
+# 🛡️ Cybersecurity Portfolio – SupremeDemonic
 
 Welcome to my Cybersecurity Portfolio! This repository serves as a showcase of my projects, experience, and passion for cybersecurity, all through a lens that reflects who I am: a command-line enthusiast with a drive for building secure, innovative, and efficient systems.
 
