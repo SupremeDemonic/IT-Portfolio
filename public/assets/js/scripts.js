@@ -13,7 +13,7 @@ Available commands:
     projects  - Projects
     contact   - Contact Me
     skills    - Skills
-    cls       - Clear Screen
+    clear       - Clear Screen
 
   Technical:
     tech      - Technologies
@@ -252,7 +252,7 @@ Key Achievements:
     };
 
     const executeCommand = (command) => {
-        if (command === 'cls') {
+        if (command === 'clear') {
             // Clear the terminal body, leaving only the input line
             terminalBody.innerHTML = '';
             terminalBody.appendChild(inputLine);
