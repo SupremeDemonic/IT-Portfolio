@@ -34,23 +34,48 @@ My passion for cybersecurity stems from hands-on experience—building a home la
 
 ---
 
+## 🧪 Hands-On Experience
+
+- 💻 **Live Ethical Hacking Session**: Hosted a live session using **Kali Linux** and **Aircrack-ng** to demonstrate real-time wireless network penetration testing.
+- 🐚 **Reverse Shell Deployment**: Created a custom reverse shell script, deployed it using a **Flipper Zero**, and successfully established a remote session on a Windows 10 VM from my Kali machine.
+- 💣 **Metasploit Malware Deployment**: Built a malware package with **Metasploit** to successfully compromise a Windows 10 virtual machine.
+- 🏢 **Enterprise-Style Homelab**: Built a simulated corporate environment with:
+  - 1 Kali Linux attacker machine
+  - 1 Windows Server 2019 (acting as a domain controller)
+  - 7 Windows 10 machines acting as endpoints within an organization
+- 🔍 **Network Recon & Analysis**: Fluent in tools like **Nmap** for scanning, analyzing, and mapping networks.
+
+---
+
 ## 🚀 Featured Projects
 
-### 🔐 **iBank Financials Case Study**
-- Assessed internal access control flaws using NIST SP 800-53.
-- Delivered a strategic remediation plan with executive-level recommendations.
+### 🛡️ **SnowBe Online – Security Policy Implementation & Review**
+- Conducted a comprehensive inspection of SnowBe Online’s security posture.
+- Developed a detailed security plan with clearly defined policies, standards, and procedures.
+- Ensured alignment with compliance frameworks such as **PCI DSS** and **NIST 800-53**.
 
-### 🌐 **SnowBe Online Security Review**
-- Evaluated vulnerabilities in an eCommerce setup with AWS and WordPress.
-- Focused on PCI DSS compliance and secure transaction handling.
+### 🔍 **Ransomware in the Apple App Store – Group-IB Research Analysis**
+- Authored a research paper analyzing **Group-IB’s** discovery of ransomware infiltrating Apple's ecosystem.
+- Evaluated the implications for user trust and Apple’s historically strong security model.
+- Recommended strategies for enhancing app store malware detection and response.
 
-### 💡 **OWASP ZAP Demo**
-- Created a live demo and presentation of ZAP for identifying common web app vulnerabilities.
-- Simulated XSS and SQL Injection attacks with mitigation techniques.
+### 🌐 **Website Development – WordPress on Hostinger**
+- Built and deployed two fully functional websites:
+  - [davinasbakedtherapy.com](https://davinasbakedtherapy.com)
+  - [techgeargurus.com](https://techgeargurus.com)
+- Implemented SSL, performance optimization, SEO, and layered security controls including MFA and firewalls.
 
-### 🧪 **Personal Homelab**
-- Built a virtual test environment with Windows Server, Kali Linux, and Metasploitable.
-- Configured FTP servers, static IPs, and group policies while automating recon tasks with Python.
+### 🏠 **Enterprise-Style Personal Homelab**
+- Created a full-scale lab environment with:
+  - 1 Kali Linux attacker machine
+  - 1 Windows Server 2019 (DC)
+  - 7 Windows 10 endpoint VMs, configured to simulate an enterprise network.
+- Practiced network reconnaissance, privilege escalation, lateral movement, and custom scripting.
+
+### ⚔️ **OWASP Juice Shop – Vulnerability Practice**
+- Completed the OWASP Juice Shop vulnerable web app walkthrough.
+- Gained hands-on experience identifying and exploiting web vulnerabilities like XSS, SQL injection, and IDOR.
+- Reinforced understanding of secure coding practices and web app defense mechanisms.
 
 ---
 
@@ -58,9 +83,36 @@ My passion for cybersecurity stems from hands-on experience—building a home la
 
 - **Security & Network:** Nmap, Wireshark, Kali Linux, Windows Server, AD, IAM  
 - **Programming & Automation:** Python, Bash, PyAutoGUI  
+- **Offensive Security:** Aircrack-ng, Metasploit, Reverse Shells  
 - **Compliance Knowledge:** NIST RMF, PCI DSS, ISO 27001  
 - **Systems & Infrastructure:** VM management, Homelab setup, FTP servers  
 - **Soft Skills:** Mentoring, problem solving, communication  
+
+---
+
+## 🎯 Career Goals
+
+1. **Transition into a cybersecurity role focused on network security and digital asset protection**  
+   - Master tools like firewalls, IDS/IPS systems, and encryption protocols  
+   - Stay ahead of trends like zero-day vulnerabilities and ransomware attacks
+
+2. **Earn key industry certifications**  
+   - 🛡️ **CISSP**: Master security architecture and advanced security practices  
+   - ☁️ **Azure Fundamentals**: Build foundational knowledge in cloud environments  
+   - 🔐 **Security+ & Network+**: Strengthen cybersecurity and networking fundamentals
+
+3. **Gain experience as a penetration tester**  
+   - Study frameworks like **OWASP**  
+   - Use tools like **Kali Linux**, **Metasploit**, **Burp Suite**  
+   - Simulate real-world attacks in lab environments
+
+4. **Secure a position as a SOC Analyst**  
+   - Learn **log analysis**, **threat hunting**, and **incident response**  
+   - Use tools like **Splunk** to detect and respond to real-time threats
+
+5. **Participate in Capture The Flag (CTF) events**  
+   - Practice challenges on **TryHackMe** and **Hack The Box**  
+   - Build skills, network with professionals, and grow visibility in the community
 
 ---
 
@@ -77,9 +129,10 @@ My passion for cybersecurity stems from hands-on experience—building a home la
 
 - Portfolio: [My Cybersecurity Portfolio](https://supremedemonic.github.io/IT-Portfolio/public/index.html)  
 - Email: nawazsamuel98@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/samuel-nawaz/](https://www.linkedin.com/in/samuel-nawaz/) 
+- LinkedIn: [https://www.linkedin.com/in/samuel-nawaz/](https://www.linkedin.com/in/samuel-nawaz/)  
 - Location: Stevensville, MD  
 
 ---
 
-> "The command line isn't just a tool—it's my comfort zone, my power base, and my playground."  
+> *"The only way to really protect yourself is to stay one step ahead of the game."*  
+> — **Elliot Alderson, Mr. Robot**
