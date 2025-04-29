@@ -28,12 +28,15 @@ Available commands:
     linkedin  - Open LinkedIn Profile
     edu       - Education
     achievements - Key Achievements
+    certs     - Certifications
 
   Future:
     goals     - My Goals
     pathway   - Career Pathway
     whatsnext - What's Next
         `,
+
+        
         abt: `
 About Me:
 I am an IT professional with an Associate's Degree in Information Technology, bringing real-world experience in systems administration, network management, and security protocols. 
@@ -241,6 +244,11 @@ Key Achievements:
 - Built a malware package with Metasploit that compromised a Windows 10 virtual machine.
 - Developed a fully functioning homelab simulating a small enterprise network.
 - Automated daily IT tasks using Python to improve productivity.
+`,
+        certs: `
+CompTIA Security+
+- Currently studying for the CompTIA Security+ certification using a mix of ChatGPT, Quizlet, and Udemy courses and practice exams.
+Through multiple practice exams, I am averaging a score of 87%. I am confident I will obtain a score of 85% or higher on the actual exam.
 `,
 
     };
