@@ -14,9 +14,9 @@ My portfolio is designed to look and feel like a macOS terminal—interactive, m
 
 ## 👨‍🎓 About Me
 
-I'm currently pursuing a **Bachelor of Science in Cybersecurity** at **Full Sail University**, graduating in July 2025. I hold an **Associate of Science in Information Technology** from Full Sail as well, where I graduated as **Salutatorian** with a **3.99 GPA** and received two **Directors' Awards** for academic excellence.
+I hold a **Bachelor of Science in Cybersecurity** and an **Associate of Science in Information Technology** from **Full Sail University**, where I graduated as **Salutatorian** with a **3.99 GPA** and earned two **Directors' Awards** for academic excellence.
 
-My passion for cybersecurity stems from hands-on experience—building a home lab, automating tasks with Python, and analyzing real-world threats. I’ve also worked in environments that demanded both technical knowledge and strict adherence to data protection standards.
+My passion for cybersecurity has been shaped through immersive labs, certification training, and project-based learning—ranging from building virtual homelabs to automating tasks with Python and simulating real-world attack scenarios. I'm eager to apply these skills in a professional setting and continue learning as the field evolves.
 
 ---
 
@@ -45,7 +45,6 @@ My passion for cybersecurity stems from hands-on experience—building a home la
 - 🏢 **Enterprise-Style Virtual Lab**: Designed and configured a full-scale homelab to simulate an enterprise network.
 
 - 🔍 **Network Recon & Analysis Practice**: Used tools like **Nmap** and **Wireshark** in a lab environment to simulate network scanning, traffic analysis, and mapping of digital assets.
-
 
 ---
 
