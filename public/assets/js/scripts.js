@@ -6,6 +6,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const inputLine = document.querySelector('.input-line');
 
     const commands = {
+
+
+        
         help: `
 Available commands:
   General:
@@ -36,12 +39,17 @@ Available commands:
     whatsnext - What's Next
         `,
 
+
         
         abt: `
-About Me:
-I am an IT professional with an Associate's Degree in Information Technology, bringing real-world experience in systems administration, network management, and security protocols. 
-Currently pursuing a Bachelor's in Cybersecurity, I am eager to transition into network security to safeguard digital assets and ensure infrastructure integrity.
-        `,
+    About Me:
+    With a Bachelor's in Cybersecurity and foundational IT education, I’ve built my skills through 
+        structured coursework, interactive labs, and certification programs. I'm eager to apply what 
+        I’ve learned in a real-world environment and continue growing as a security analyst.
+`,
+
+
+        
         goals: `
 My Goals:
 1. Transition into a cybersecurity role focused on network security and digital asset protection:
@@ -66,6 +74,9 @@ My Goals:
    - Join platforms like TryHackMe and Hack The Box.
    - Solve real-world challenges to build skills and reputation.
         `,
+
+
+        
         pathway: `
 Career Pathway:
 1. Help Desk Support:
@@ -92,6 +103,9 @@ Career Pathway:
    - Conduct advanced penetration tests and simulate real-world attacks.
    - Certifications: OSCP, GPEN.
         `,
+
+
+        
         whatsnext: `
 What's Next:
 1. Work on Projects:
@@ -114,6 +128,9 @@ What's Next:
    - Master techniques like patch management, endpoint security, and firewall configurations.
    - Study common attack vectors like phishing, SQL injection, and malware, and learn how to mitigate them.
         `,
+
+
+        
         projects: `
 Projects:
 1. SnowBe Online – Security Policy Implementation & Review
@@ -132,11 +149,16 @@ Projects:
    - Completed full walkthrough of this vulnerable web app to practice XSS, SQLi, and other exploit techniques.
 `,
 
+
+        
         contact: `
 Contact Me:
 Email: nawazsamuel98@gmail.com
 LinkedIn: linkedin.com/in/samuel-nawaz
         `,
+
+
+        
         skills: `
 Skills:
 - Penetration Testing:
@@ -150,6 +172,7 @@ Skills:
 - Network Security:
   - Configured and secured enterprise-style virtual networks in a homelab.
   - Analyzed traffic using Wireshark and implemented firewall rules for basic defense scenarios.
+  - Applied access control models and authentication mechanisms to protect network resources.
 
 - Malware Analysis:
   - Deployed custom Metasploit payloads and monitored behavioral patterns within isolated environments.
@@ -158,14 +181,20 @@ Skills:
 - Incident Response:
   - Simulated threat scenarios to practice log review, threat detection, and response workflows.
   - Gained familiarity with security monitoring tools like Splunk and system-level analysis.
+  - Reviewed real-world breaches to understand incident response frameworks and root cause analysis.
 
 - Automation & Scripting:
   - Automated system tasks, keyboard actions, and scanning operations using Python and Bash.
-  - Developed reverse shell scripts and workflow automation tools.
+  - Built custom reverse shell scripts and Python-based tools to automate security tasks and streamline workflows.
+
+- Risk Management & Security Policies:
+  - Assessed organizational risk and applied risk mitigation strategies based on CIA triad and security controls.
+  - Created and reviewed security policies, asset inventories, and vulnerability reports to support organizational security goals.
 
 - Systems & Tools:
-  - Kali Linux, Windows Server 2019, Wireshark, Metasploit, Burp Suite, TryHackMe, VirtualBox, Nmap, OWASP ZAP
+  - Kali Linux, Windows Server 2019, Wireshark, Metasploit, Burp Suite, TryHackMe, VirtualBox, Nmap, OWASP ZAP, Splunk, Python, Bash
 `,
+
 
         tech: `
 Technologies:
@@ -174,12 +203,18 @@ Technologies:
 - AWS, Azure, GCP
 - Splunk, Wireshark
         `,
+
+
+        
         os: `
 Operating Systems:
 - Linux (Ubuntu, Kali, CentOS)
 - Windows (Server and Desktop)
 - macOS
         `,
+
+
+        
         virt: `
 Virtualization:
 - VMware Fusion/Workstation
@@ -187,12 +222,18 @@ Virtualization:
 - VirtualBox
 - ProxMox (VE)
         `,
+
+
+        
         sec: `
 Security:
 - Nessus, NMAP, OWASP, OpenSSL
 - Identity and Access Management (IAM)
 - PCI DSS, GDPR, HIPAA, CCPA, SOX Compliance
         `,
+
+
+        
         hack: `
 Ethical Hacking:
 - Penetration Testing:
@@ -216,6 +257,9 @@ Ethical Hacking:
 - Tools & Platforms:
   - Kali Linux, Metasploit Framework, Nmap, Aircrack-ng, Burp Suite, OWASP ZAP, TryHackMe, Hack The Box
 `,
+
+
+        
         prof: `
 Professional Experience:
 CDP Document Processor, RSM US LLP (October 2022 - Present)
@@ -229,6 +273,9 @@ Wireless Sales Representative & Mentor, CellularSales (September 2020 - Septembe
 - Trained new employees in sales techniques and technical troubleshooting.
 - Consistently met sales targets while delivering excellent customer service.
         `,
+
+
+        
         edu: `
 Education:
 - Associate of Science - Information Technology (July 2024), Full Sail University
@@ -236,6 +283,9 @@ Education:
   - Final research paper on Industry 4.0, exploring technological advancements shaping the future of manufacturing.
 - Bachelor of Science - Cybersecurity (Est. July 2025), Full Sail University
         `,
+
+
+        
         achievements: `
 Key Achievements:
 - Salutatorian, Class of 2024 at Full Sail University with a 3.99 GPA and two Directors' Awards.
@@ -245,11 +295,19 @@ Key Achievements:
 - Developed a fully functioning homelab simulating a small enterprise network.
 - Automated daily IT tasks using Python to improve productivity.
 `,
+
+
+        
         certs: `
+Google Cybersecurity Professional Certificate
+- Successfully completed the Google Cybersecurity Certificate with top performance. Gained hands-on skills in 
+    threat detection, incident response, network security, and security operations using industry tools.
+
 CompTIA Security+
 - Currently studying for the CompTIA Security+ certification using a mix of ChatGPT, Quizlet, and Udemy courses and practice exams.
-Through multiple practice exams, I am averaging a score of 87%. I am confident I will obtain a score of 85% or higher on the actual exam.
+    Through multiple practice exams, I am averaging a score of 87%. I am confident I will obtain a score of 85% or higher on the actual exam.
 `,
+
 
     };
 
