@@ -34,16 +34,18 @@ My passion for cybersecurity stems from hands-on experience—building a home la
 
 ---
 
-## 🧪 Hands-On Experience
+## 🧪 Lab & Simulated Experience
 
-- 💻 **Live Ethical Hacking Session**: Hosted a live session using **Kali Linux** and **Aircrack-ng** to demonstrate real-time wireless network penetration testing.  
-- 🐚 **Reverse Shell Deployment**: Created a custom reverse shell script, deployed it using a **Flipper Zero**, and successfully established a remote session on a Windows 10 VM from my Kali machine.  
-- 💣 **Metasploit Malware Deployment**: Built a malware package with **Metasploit** to successfully compromise a Windows 10 virtual machine.  
-- 🏢 **Enterprise-Style Homelab**: Built a simulated corporate environment with:  
-  - 1 Kali Linux attacker machine  
-  - 1 Windows Server 2019 (acting as a domain controller)  
-  - 7 Windows 10 machines acting as endpoints within an organization  
-- 🔍 **Network Recon & Analysis**: Fluent in tools like **Nmap** for scanning, analyzing, and mapping networks.
+- 💻 **Wireless Network Penetration Lab**: Conducted a simulated ethical hacking session using **Kali Linux** and **Aircrack-ng** to explore wireless network vulnerabilities and defense strategies.
+
+- 🐚 **Reverse Shell Scripting Practice**: Wrote and tested a custom reverse shell script, executed via a **Flipper Zero**, to simulate remote access on a Windows 10 virtual machine from a Kali environment.
+
+- 💣 **Malware Simulation with Metasploit**: Used **Metasploit** to build and deploy a controlled malware payload within a virtual lab, observing system behavior and identifying key indicators of compromise.
+
+- 🏢 **Enterprise-Style Virtual Lab**: Designed and configured a full-scale homelab to simulate an enterprise network.
+
+- 🔍 **Network Recon & Analysis Practice**: Used tools like **Nmap** and **Wireshark** in a lab environment to simulate network scanning, traffic analysis, and mapping of digital assets.
+
 
 ---
 
