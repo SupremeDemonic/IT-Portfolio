@@ -43,9 +43,7 @@ Available commands:
         
         abt: `
     About Me:
-    With a Bachelor's in Cybersecurity and foundational IT education, I’ve built my skills through 
-        structured coursework, interactive labs, and certification programs. I'm eager to apply what 
-        I’ve learned in a real-world environment and continue growing as a security analyst.
+    With a Bachelor's in Cybersecurity and foundational IT education, I’ve built my skills through structured coursework, interactive labs, and certification programs. I'm eager to apply what I’ve learned in a real-world environment and continue growing as a security analyst.
 `,
 
 
@@ -281,7 +279,7 @@ Education:
 - Associate of Science - Information Technology (July 2024), Full Sail University
   - Graduated as Salutatorian with a 3.99 GPA and received two Directors' Awards.
   - Final research paper on Industry 4.0, exploring technological advancements shaping the future of manufacturing.
-- Bachelor of Science - Cybersecurity (Est. July 2025), Full Sail University
+- Bachelor of Science - Cybersecurity (July 2025), Full Sail University
         `,
 
 
@@ -300,12 +298,10 @@ Key Achievements:
         
         certs: `
 Google Cybersecurity Professional Certificate
-- Successfully completed the Google Cybersecurity Certificate with top performance. Gained hands-on skills in 
-    threat detection, incident response, network security, and security operations using industry tools.
+- Successfully completed the Google Cybersecurity Certificate with top performance. Gained hands-on skills in threat detection, incident response, network security, and security operations using industry tools.
 
 CompTIA Security+
-- Currently studying for the CompTIA Security+ certification using a mix of ChatGPT, Quizlet, and Udemy courses and practice exams.
-    Through multiple practice exams, I am averaging a score of 87%. I am confident I will obtain a score of 85% or higher on the actual exam.
+- Currently studying for the CompTIA Security+ certification using a mix of ChatGPT, Quizlet, and Udemy courses and practice exams. Through multiple practice exams, I am averaging a score of 87%. I am confident I will obtain a score of 85% or higher on the actual exam.
 `,
 
 
