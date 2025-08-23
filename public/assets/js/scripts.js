@@ -43,7 +43,10 @@ Available commands:
         
         abt: `
     About Me:
-    With a Bachelor's in Cybersecurity and foundational IT education, I’ve built my skills through structured coursework, interactive labs, and certification programs. I'm eager to apply what I’ve learned in a real-world environment and continue growing as a security analyst.
+    I am a highly motivated Help Desk/IT Support Specialist/Field Technician with hands on experience in delivering technical support. At CommPutercations, I handle daily client requests
+    ranging from password resets to workstation deployments and troubleshooting across Google Workspace, Microsoft 365, and local workstation environments. Working at an MSP, I've been
+    exposed to many tools like NinjaOne, ConnectWise, IT Glue, O365, and Hyper-V. My role combines both remote and on-site support, allowing me to adapt to client needs and technical challenges
+    so I can maintain a strong client relationship. I am passionate about problem solving and learning. As I learn, I am developing the skills needed to grow into a higher level IT role.
 `,
 
 
@@ -190,7 +193,7 @@ Skills:
   - Created and reviewed security policies, asset inventories, and vulnerability reports to support organizational security goals.
 
 - Systems & Tools:
-  - Kali Linux, Windows Server 2019, Wireshark, Metasploit, Burp Suite, TryHackMe, VirtualBox, Nmap, OWASP ZAP, Splunk, Python, Bash
+  - Kali Linux, Windows Server 2019, Google Workspace, O365, NinjaOne, ConnectWise, Wireshark, Metasploit, Burp Suite, TryHackMe, VirtualBox, Nmap, OWASP ZAP, Splunk, Python, Bash
 `,
 
 
@@ -200,6 +203,8 @@ Technologies:
 - Docker, Kubernetes
 - AWS, Azure, GCP
 - Splunk, Wireshark
+- Google Workspace, O365, ConnectWise
+- NinjaOne
         `,
 
 
@@ -219,6 +224,7 @@ Virtualization:
 - KVM
 - VirtualBox
 - ProxMox (VE)
+- Hyper-V
         `,
 
 
@@ -228,6 +234,7 @@ Security:
 - Nessus, NMAP, OWASP, OpenSSL
 - Identity and Access Management (IAM)
 - PCI DSS, GDPR, HIPAA, CCPA, SOX Compliance
+- Huntress
         `,
 
 
@@ -260,6 +267,12 @@ Ethical Hacking:
         
         prof: `
 Professional Experience:
+Help Desk/It Support Specialist/ Field Technician, CommPutercations Inc. (MSP)
+- Provided help desk support to clients which includes passwords resets, user provisioning, license management, and email forwarding in both Google Workspace and Microsoft 365.
+- Managed tickets from beginning to end using ConnectWise while documenting everything throughout.
+- Deployed and configured new desktop systems for clients, installing agents, and ensured devices were ready to be installed at client sites.
+- Utilized toolsets like NinjaOne, IT Glue, Azure, O365, Google Workspace, and Hyper-V to troubleshoot, document, and resolve client issues across the different environments.
+
 CDP Document Processor, RSM US LLP (October 2022 - Present)
 - Assisted audit teams by securely processing and managing sensitive documents, following strict data protection and compliance protocols.
 - Ensured the accuracy, quality, and confidentiality of all documents in line with established company procedures.
