@@ -43,10 +43,7 @@ Available commands:
         
         abt: `
     About Me:
-    I am a highly motivated Help Desk/IT Support Specialist/Field Technician with hands on experience in delivering technical support. At CommPutercations, I handle daily client requests
-    ranging from password resets to workstation deployments and troubleshooting across Google Workspace, Microsoft 365, and local workstation environments. Working at an MSP, I've been
-    exposed to many tools like NinjaOne, ConnectWise, IT Glue, O365, and Hyper-V. My role combines both remote and on-site support, allowing me to adapt to client needs and technical challenges
-    so I can maintain a strong client relationship. I am passionate about problem solving and learning. As I learn, I am developing the skills needed to grow into a higher level IT role.
+    I am a highly motivated Help Desk/IT Support Specialist/Field Technician with hands on experience in delivering technical support. At CommPutercations, I handle daily client requests ranging from password resets to workstation deployments and troubleshooting across Google Workspace, Microsoft 365, and local workstation environments. Working at an MSP, I've been exposed to many tools like NinjaOne, ConnectWise, IT Glue, O365, and Hyper-V. My role combines both remote and on-site support, allowing me to adapt to client needs and technical challenges so I can maintain a strong client relationship. I am passionate about problem solving and learning. As I learn, I am developing the skills needed to grow into a higher level IT role.
 `,
 
 
