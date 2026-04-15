@@ -281,7 +281,7 @@ CompTIA Security+ (In Progress)
             message.textContent = 'Opening resume in another tab...';
             terminalBody.insertBefore(message, inputLine);
             // Open the resume PDF in a new tab
-            window.open('assets/Sam_IT_Resume.pdf', '_blank');
+            window.open('assets/Samuel Nawaz Resume 04142026.pdf', '_blank');
             return;
         }
         if (command === 'linkedin') {
