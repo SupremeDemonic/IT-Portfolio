@@ -10,7 +10,7 @@ I hold a **Bachelor of Science in Cybersecurity** and an **Associate of Science 
 
 I am an IT Support Specialist with hands-on experience in **identity and access management**, **user provisioning**, and **security operations** within an MSP environment. I manage the full user lifecycle across **Google Workspace**, **Microsoft 365**, and **Entra ID**, and respond to security alerts daily using SIEM tooling. My work spans endpoint support, threat remediation, and client-facing technical support using tools like **ConnectWise**, **NinjaOne**, **Huntress**, **IT Glue**, and **Hyper-V**.
 
-I'm actively seeking my next role — targeting positions like **IAM Analyst**, **Security Analyst**, and **SOC Analyst** where I can continue to grow in the cybersecurity space.
+I'm **CompTIA Security+ certified** and actively seeking my next role — targeting positions like **IAM Analyst**, **Security Analyst**, and **SOC Analyst** where I can continue to grow in the cybersecurity space.
 
 ---
 ## 💼 Professional Experience
@@ -96,7 +96,7 @@ I'm actively seeking my next role — targeting positions like **IAM Analyst**, 
    - Bringing hands-on experience in identity lifecycle, SIEM alerting, and endpoint security from a live MSP environment
 
 2. **Earn key industry certifications**
-   - 🔐 **Security+** *(in progress)*: Validate core security fundamentals
+   - ✅ **Security+**: Validated core security fundamentals
    - 🌐 **Network+**: Build a strong foundation in networking
    - ☁️ **Azure Fundamentals**: Demonstrate foundational cloud knowledge
    - 🛡️ **CISSP**: Long-term goal to validate security architecture expertise
@@ -116,8 +116,8 @@ I'm actively seeking my next role — targeting positions like **IAM Analyst**, 
 
 ---
 ## 📜 Certifications
+- **CompTIA Security+** (2026) – Validated core cybersecurity skills across threats, vulnerabilities, risk management, and security operations
 - **Google Cybersecurity Professional Certificate** (2025) – Completed with top performance
-- **CompTIA Security+** *(in progress)* – Foundational cybersecurity certification covering threats, vulnerabilities, and best practices
 - **CompTIA Network+** *(planned)* – Deepens understanding of networking essentials and security protocols
 - **Azure Fundamentals (AZ-900)** *(planned)* – Cloud computing basics with a focus on Microsoft Azure
 - **(ISC)² CISSP** *(future goal)* – Industry-recognized cert for security architecture, governance, and risk management
@@ -126,6 +126,7 @@ I'm actively seeking my next role — targeting positions like **IAM Analyst**, 
 ## 🏅 Achievements
 - **Salutatorian**, Class of 2024 – Full Sail University (3.99 GPA)
 - **Directors' Awards** for Excellence in IT (x2)
+- **CompTIA Security+ Certified** (2026)
 - **Managing IAM & Security Operations** for multiple clients in a live MSP environment (CommPutercations Inc.), handling identity lifecycle, SIEM alerting, and threat remediation daily
 - **Built Custom Homelab** with automated tools and secure infrastructure
 - **Deployed Shannon** agentic hacking tool and conducted a full penetration test against OWASP Juice Shop, producing an 8-page technical report
