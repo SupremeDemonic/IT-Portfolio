@@ -50,11 +50,8 @@ My Goals:
 1. Transition into a cybersecurity role focused on network security and digital asset protection:
    - Learn tools like firewalls, IDS, and encryption methods.
    - Stay updated on cybersecurity trends like zero-day vulnerabilities and ransomware attacks.
-2. Earn certifications (CompTIA Security+, Network+, Azure Fundamentals, CISSP):
-   - Security+: Currently in progress — validate core security fundamentals.
-   - Network+: Build a strong foundation in networking.
-   - Azure Fundamentals: Demonstrate foundational cloud knowledge.
-   - CISSP: Long-term goal to validate security architecture expertise.
+2. Apply my certifications (CompTIA Security+, Google Cybersecurity Professional Certificate)
+   toward a hands-on security role, building practical experience over chasing more credentials.
 3. Learn penetration testing and gain experience as a pentester:
    - Study frameworks like OWASP and tools like Kali Linux, Metasploit, and Burp Suite.
    - Simulate real-world penetration tests in lab environments.
@@ -73,19 +70,15 @@ Career Pathway:
    - Tools: ConnectWise, NinjaOne, Entra ID, Microsoft 365, Google Workspace, Huntress.
 2. System/Network Administrator:
    - Manage servers, networks, and system configurations.
-   - Certifications: CompTIA Network+, Microsoft Azure Fundamentals, Cisco CCNA.
 3. Cybersecurity Analyst:
    - Detect and prevent security threats, analyze logs, and implement security measures.
-   - Certifications: CompTIA Security+, CEH, Splunk Fundamentals.
+   - Foundation: CompTIA Security+, Google Cybersecurity Professional Certificate.
 4. SOC Analyst:
    - Monitor and respond to security incidents in real-time.
-   - Certifications: CySA+, Splunk Core Certified User.
 5. Junior Penetration Tester:
    - Perform penetration testing tasks and understand security vulnerabilities.
-   - Certifications: eJPT, OSCP.
 6. Penetration Tester:
    - Conduct advanced penetration tests and simulate real-world attacks.
-   - Certifications: OSCP, GPEN.
         `,
 
         whatsnext: `
@@ -95,13 +88,11 @@ What's Next:
      SOC Analyst, and other cybersecurity-adjacent roles.
    - Bringing hands-on experience in identity lifecycle management, SIEM alerting, and endpoint security
      from a live MSP environment.
-2. Obtain CompTIA Security+:
-   - Currently studying to formalize and validate my security knowledge.
-3. Expand Homelab:
+2. Expand Homelab:
    - Integrating Suricata-based IDS and forwarding logs to Splunk to build a SOC-style monitoring setup.
-4. Continue CTF Practice:
+3. Continue CTF Practice:
    - Actively working through TryHackMe and Hack The Box to sharpen offensive and defensive skills.
-5. Deepen Penetration Testing Skills:
+4. Deepen Penetration Testing Skills:
    - Building on Shannon and OWASP Juice Shop experience with more advanced lab scenarios and vulnerability research.
         `,
 
@@ -243,6 +234,7 @@ Education:
         achievements: `
 Key Achievements:
 - Salutatorian, Class of 2024 at Full Sail University with a 3.99 GPA and two Directors' Awards.
+- CompTIA Security+ Certified (2026).
 - Managing IAM and security operations for multiple clients in a live MSP environment (CommPutercations Inc.), handling identity lifecycle, SIEM alerting, and threat remediation daily.
 - Hosted a live ethical hacking session using Kali Linux and Aircrack-ng for network penetration testing.
 - Created and deployed a reverse shell script attached to a Flipper Zero, successfully connecting to a Kali VM.
@@ -253,13 +245,12 @@ Key Achievements:
 
         certs: `
 Certifications:
+CompTIA Security+ (2026)
+- Validated core cybersecurity skills across threats, vulnerabilities, risk management, cryptography, and security operations.
+
 Google Cybersecurity Professional Certificate (2025)
 - Successfully completed the Google Cybersecurity Certificate. Gained hands-on skills in threat detection,
   incident response, network security, and security operations using industry tools.
-
-CompTIA Security+ (In Progress)
-- Currently studying using Udemy courses, practice exams, and hands-on labs. Focused on security fundamentals,
-  threat management, cryptography, and network defense.
 `,
     };
     const updateCursorPosition = () => {
