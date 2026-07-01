@@ -272,7 +272,7 @@ Google Cybersecurity Professional Certificate (2025)
             message.textContent = 'Opening resume in another tab...';
             terminalBody.insertBefore(message, inputLine);
             // Open the resume PDF in a new tab
-            window.open('assets/Samuel Nawaz Resume 04142026.pdf', '_blank');
+            window.open('assets/Samuel Nawaz Resume.pdf', '_blank');
             return;
         }
         if (command === 'linkedin') {
